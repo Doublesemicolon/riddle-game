@@ -1,0 +1,44 @@
+body{
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	color:#ffffff;
+	text-shadow: 5px 5px 5px black;
+}
+ 
+ 
+ #container {
+	margin: 50px auto;
+	text-align: center;
+	color:aqua;
+  }
+  
+  .riddle {
+	font-size: 24px;
+	text-shadow: 5px 5px 5px black;
+  }
+  
+  input[type="text"] {
+	padding: 10px;
+	margin: 10px;
+  }
+  
+  button {
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+  
+  button:hover {
+	background-color: #3e8e41;
+  }
+  
+  #result {
+	font-size: 18px;
+  }
